@@ -1,0 +1,6 @@
+date,avg_temperature,humidity,avg_wind_speed,cloud_cover,pressure
+,20,60,10,50,1010
+,22,65,12,55,1012
+,19,70,11,60,1011
+,31,50,11,55,1011
+,29,45,14,45,1012
