@@ -44,8 +44,8 @@ To set up the project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/weather-forecasting-project.git
-   cd weather-forecasting-project
+   git clone https://github.com/KaveenAmarasekara/Intellihack_RedHawk_Task01.git
+   cd Intellihack_RedHawk_Task01
    
 2. **Install Dependencies:**
    Install the required Python libraries:
@@ -58,8 +58,7 @@ To set up the project locally, follow these steps:
     jupyter notebook notebooks/intellihack_task01_rain_prediction.ipynb
 
 ## Folder Structure
-
-  weather-forecasting-project/
+  Intellihack_RedHawk_Task01/
   ├── data/                  # Folder for datasets
   │   └── weather_data.xlsx
   ├── notebooks/             # Folder for Jupyter Notebooks
@@ -109,30 +108,27 @@ To set up the project locally, follow these steps:
     Create a Pull Request (PR) on GitHub for review.
 
 ## Real-Time Collaboration:
-
   Use Google Colab for real-time editing of the notebook.
-
   Share the notebook with your team and grant them Editor access.
 
 ## Contributing
-We welcome contributions! Here’s how you can contribute:
-  
-  Fork the repository.
-  
-  Create a new branch (git checkout -b feature/your-feature-name).
-  
-  Commit your changes (git commit -m "Add your feature").
-  
-  Push to the branch (git push origin feature/your-feature-name).
-  
-  Open a Pull Request.
+  We welcome contributions! Here’s how you can contribute:
+    
+    Fork the repository.
+    
+    Create a new branch (git checkout -b feature/your-feature-name).
+    
+    Commit your changes (git commit -m "Add your feature").
+    
+    Push to the branch (git push origin feature/your-feature-name).
+    
+    Open a Pull Request.
 
 ## License
-This project is licensed under the []. See the [LICENSE] file for details.
+  This project is licensed under the []. See the [LICENSE] file for details.
 
 ## Contact
-For questions or feedback, please contact:
-
-  Kaveen Amarasekara (Team RedHawk @UCSC)
-  Email: kaveenamarasekara2@gmail.com
-  GitHub: KaveenAmarasekara
+  For questions or feedback, please contact:
+    Kaveen Amarasekara (Team RedHawk @UCSC)
+    Email: kaveenamarasekara2@gmail.com
+    GitHub: KaveenAmarasekara
